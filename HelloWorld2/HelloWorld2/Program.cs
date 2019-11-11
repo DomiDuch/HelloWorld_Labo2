@@ -6,7 +6,7 @@ namespace HelloWorld2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World ! I'm Adri !");
+            Console.WriteLine("Hello World ! I'm Adri ! But there is Domi too !");
         }
     }
 }
